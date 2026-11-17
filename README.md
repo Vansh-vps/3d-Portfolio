@@ -45,6 +45,8 @@ Beyond building, I'm a veteran **hackathon organizer and judge**, driving high-i
 
 This is my **3d portfolio website**, {this website doesnt contain all my acheviments this is just a poject that i ship to show the student which i mentored} built as a cinematic, type-specimen-inspired experience with a dark, red and blue-accented aesthetic.
 
+🌐 **Live Demo:** [https://vansh-vps.github.io/3d-Portfolio/](https://vansh-vps.github.io/3d-Portfolio/)
+
 ### ✨ Features
 
 - 🔴 **Dragon Type Specimen** — A striking typographic hero section with scroll-driven animations

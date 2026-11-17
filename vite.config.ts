@@ -5,6 +5,7 @@ import { fileURLToPath } from 'url'
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: '/3d-Portfolio/',
   plugins: [
     react(),
     tailwindcss()
