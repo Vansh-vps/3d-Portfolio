@@ -15,7 +15,7 @@
 
 ---
 
-## 👋 About Me
+##  About Me
 
 I'm **Vansh Pratap** — a 16 years old teenager from Delhi, India. a curious mind that just want to build somthing that i imagined adn yay! i made tham, I am a  creator who works across the full spectrum of digital and physical Engineering. 
 
@@ -25,44 +25,44 @@ Beyond building, I'm a veteran **hackathon organizer and judge**, driving high-i
 
 ---
 
-## 🔥 What I Do
+##  What I Do
 
 | Domain | Description |
 |---|---|
-| **🌐 Web Development** | Crafting reactive, high-performance and user-friendly web applications.  |
-| **🎮 Game Development** | Architecting immersive gameplay mechanics, real-time simulations, and virtual environments. |
-| **🎨 Graphic Design** | Visual identity design, brand styling, typography, poster art, UI/UX mockups, and high-impact digital graphics. |
-| **⚙️ Mechatronics & Robotics** | Fusing code with physical machinery — microcontrollers, autonomous systems, circuit schematics, sensors, and embedded C/C++. |
-| **⚡ Hackathons & Judging** | Veteran participant, lead organizer, and jury member for hackathons and developer community events. |
-| **🚀 Hack Club & Buildvora** | Global student maker, open-source hacker, and founder at Buildvora — accelerating product development and innovation. |
+| ** Web Development** | Crafting reactive, high-performance and user-friendly web applications.  |
+| ** Game Development** | Architecting immersive gameplay mechanics, real-time simulations, and virtual environments. |
+| ** Graphic Design** | Visual identity design, brand styling, typography, poster art, UI/UX mockups, and high-impact digital graphics. |
+| ** Mechatronics & Robotics** | Fusing code with physical machinery — microcontrollers, autonomous systems, circuit schematics, sensors, and embedded C/C++. |
+| ** Hackathons & Judging** | Veteran participant, lead organizer, and jury member for hackathons and developer community events. |
+| ** Hack Club & Buildvora** | Global student maker, open-source hacker, and founder at Buildvora — accelerating product development and innovation. |
 
 ---
 
 
 ---
 
-## 📂 This Repository — Portfolio
+##  This Repository — Portfolio
 
 This is my **3d portfolio website**, {this website doesnt contain all my acheviments this is just a poject that i ship to show the student which i mentored} built as a cinematic, type-specimen-inspired experience with a dark, red and blue-accented aesthetic.
 
-🌐 **Live Demo:** [https://vansh-vps.github.io/3d-Portfolio/](https://vansh-vps.github.io/3d-Portfolio/)
+**Live Demo:** [https://vansh-vps.github.io/3d-Portfolio/](https://vansh-vps.github.io/3d-Portfolio/)
 
-### ✨ Features
+###  Features
 
-- 🔴 **Dragon Type Specimen** — A striking typographic hero section with scroll-driven animations
-- 🎴 **Skill Cards** — Interactive, glassmorphic cards showcasing each domain of expertise
-- 🔗 **Social Connect Section** — Animated links to GitHub, LinkedIn, Instagram, and email
-- 🌑 **Dark Theme** — Full black + red palette with glow effects and micro-animations
-- 📱 **Responsive** — Fully adaptive across mobile, tablet, and desktop
+-  **Dragon Type Specimen** — A striking typographic hero section with scroll-driven animations
+-  **Skill Cards** — Interactive, glassmorphic cards showcasing each domain of expertise
+-  **Social Connect Section** — Animated links to GitHub, LinkedIn, Instagram, and email
+-  **Dark Theme** — Full black + red palette with glow effects and micro-animations
+-  **Responsive** — Fully adaptive across mobile, tablet, and desktop
 
-### 🏗️ Built With
+###  Built With
 
 - **[React](https://react.dev/)** — UI library
 - **[Vite](https://vite.dev/)** — Lightning-fast build tool
 - **[TypeScript](https://www.typescriptlang.org/)** — Type-safe development
 - **[Tailwind CSS v4](https://tailwindcss.com/)** — Utility-first styling
 
-### 🚀 Getting Started
+###  Getting Started
 
 ```bash
 # Clone the repository
@@ -81,23 +81,23 @@ npm run build
 
 ---
 
-## 🏆 Highlights
+## Highlights
 
-- 🌍 **Codeavour 7.0** — International Student Ambassador
-- 🛠️ **Buildvora** — Founder & Builder
-- 🟢 **Hack Club** — Global student maker community member
-- 🏅 **Hackathons** — Organizer, participant, and judge
+-  **Codeavour 7.0** — International Student Ambassador
+-  **Buildvora** — Founder & Builder
+-  **Hack Club** — Global student maker community member
+-  **Hackathons** — Organizer, participant, and judge
 
 ---
 
-## 📬 Let's Connect
+##  Let's Connect
 
 I'm always open to collaborating on projects, hackathons, design work, or just geeking out about tech.
 
-**📧 Email:** [vanshpratap2323@gmail.com](mailto:vanshpratap2323@gmail.com)  
-**🐙 GitHub:** [@vansh-vps](https://github.com/vansh-vps)  
-**💼 LinkedIn:** [@vanshpratap](https://linkedin.com/in/vanshpratap)  
-**📸 Instagram:** [@vansh.vps](https://instagram.com/vansh.vps)
+** Email:** [vanshpratap2323@gmail.com](mailto:vanshpratap2323@gmail.com)  
+** GitHub:** [@vansh-vps](https://github.com/vansh-vps)  
+** LinkedIn:** [@vanshpratap](https://linkedin.com/in/vanshpratap)  
+** Instagram:** [@vansh.vps](https://instagram.com/vansh.vps)
 
 ---
 
