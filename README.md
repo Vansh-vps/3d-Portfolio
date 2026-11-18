@@ -105,6 +105,10 @@ I'm always open to collaborating on projects, hackathons, design work, or just g
   <img src="https://img.shields.io/badge/© 2026-VANSH PRATAP-de0902?style=flat-square" alt="Copyright" />
   <br />
   <sub>Built with ❤️ by vps.</sub>
+
+
+
+  
 </p>
 
 
